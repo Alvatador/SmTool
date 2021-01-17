@@ -15,19 +15,22 @@ sudo bash smtools.sh
 ---------------------------------
 
 <p align="center">
-  <img align="center" src="https://i.hizliresim.com/fuYRGa.png" width="%100" height="150px"
+  <img align="center" src="https://i.hizliresim.com/fuYRGa.png" width="%300" height="300px"
+</p>
+
+<p align="center">
+  <img align="center" src="https://i.hizliresim.com/Fwn4Qd.png" width="%300" height="300px"
 </p>
 
 
-#Phishing Interface
-https://i.hizliresim.com/Fwn4Qd.png
+<p align="center">
+  <img align="center" src="https://i.hizliresim.com/DbMSPT.png" width="%300" height="300px"
+</p>
 
 
-#Password Attacks Interface
-https://i.hizliresim.com/DbMSPT.png
+<p align="center">
+  <img align="center" src="https://i.hizliresim.com/rfP2rf.png" width="%300" height="300px"
+</p>
 
-
-#Osint Interface
-https://i.hizliresim.com/rfP2rf.png
 
 
