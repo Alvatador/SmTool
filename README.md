@@ -14,8 +14,9 @@ Bash Script Written Multipurpose Tool
 sudo bash smtools.sh
 ---------------------------------
 
-#Interface
-https://i.hizliresim.com/fuYRGa.png
+<p align="center">
+  <img align="center" src="https://i.hizliresim.com/fuYRGa.png" width="%100" height="150px"
+</p>
 
 
 #Phishing Interface
