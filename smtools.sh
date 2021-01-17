@@ -4,7 +4,7 @@
 # Script By Alvatador  #
 ########################
 
-# detect ctrl+c exiting
+#ctrl c
 trap ctrl_c INT
 ctrl_c() {
 echo -e "\n"
