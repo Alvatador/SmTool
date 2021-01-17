@@ -1,2 +1,2 @@
-# SmTool
-sudo bash smtools.sh
+#TR
+Bash Script İle Yazılmış Bir Multi-Tool'dur 100
