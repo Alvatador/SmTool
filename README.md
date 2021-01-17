@@ -1,10 +1,10 @@
-#TR
+# TR
 Bash Script İle Yazılmış Bir Multi-Tool'dur 💯
 
 [İnstagram 📸](https://www.instagram.com/alvatadorsz/)
 
 
-#ENG
+# ENG
 Bash Script Written Multipurpose Tool
 
 [Instagram 📸](https://www.instagram.com/alvatadorsz/)
