@@ -30,7 +30,7 @@ spinlong ()
 
 #lol
 if [[ $(command -v lolcat) = "" ]] ; then
-    apt install -y lolcat   &> /dev/null
+    apt install  lolcat   &> /dev/null
 fi
 
 # Colors
